@@ -1,11 +1,15 @@
 # Pet Adoption Console App
 
-A console app for keeping track of pets in shelter. This app includes:
+A console app for keeping track of pets in shelter. 
+
+## Includes:
 
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 - list iteration
 
+# Featured Code
+## List Iteration
 ```C#
 
 for (var i = 0; i < shelter.Count; i++)
